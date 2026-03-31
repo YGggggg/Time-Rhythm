@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --morandi-sage: #A8B5A2;
+  --morandi-rose: #C4A59D;
+  --morandi-blue: #9BAFC4;
+  --morandi-lavender: #B5A8C4;
+  --morandi-sand: #C4B89D;
+  --morandi-teal: #9DC4C0;
+  --bg: #F5F4F1;
+  --text: #4A4550;
+  --text-light: #7A7580;
+  --border: #E2E0DC;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root { min-height: 100vh; }
