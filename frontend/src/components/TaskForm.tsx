@@ -247,7 +247,7 @@ const TaskForm: React.FC<Props> = ({ selectedDate, onSubmit }) => {
       <div>
         <input
           type="text"
-          placeholder={aiMode ? '任务名称（AI 将自动拆解）' : '任务名称'}
+          placeholder={aiMode ? '任务内容（AI 将自动拆解）' : '任务名称'}
           value={title}
           onChange={(e) => setTitle(e.target.value)}
           className="w-full text-sm px-3 py-2 rounded-xl border border-[#E2E0DC] outline-none focus:border-[#A8B5A2] text-[#4A4550] placeholder:text-[#C4C2BE]"

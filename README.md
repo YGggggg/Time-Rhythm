@@ -150,9 +150,5 @@ Android 端 API 地址通过 `BuildConfig.API_BASE_URL` 注入，网络容器定
 - 持续打磨 AI 拆解与节奏建议体验
 
 ## 文档参考
-
-- [AIPM/Time Rhythm PRD.md](AIPM/Time%20Rhythm%20PRD.md)
 - [AIPM/团队背景.md](AIPM/团队背景.md)
 - [AIPM/项目进度.md](AIPM/项目进度.md)
-
-如果你想把 README 再继续扩展成更偏对外展示的版本，比如加产品截图、架构图、接口说明或部署指南，我也可以继续帮你整理。
