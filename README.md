@@ -91,7 +91,7 @@ Time Rhythm 想解决的核心问题有三类：
 
 ```text
 Time_Rhythm/
-├── AIPM/                  # 项目背景、PRD、进度与协作文档
+├── project_docs/                  # 项目背景、进度与协作文档
 ├── backend/               # FastAPI 后端
 ├── frontend/              # React Web 前端
 ├── Time_Rhythm_APP/       # Android 原生应用
@@ -142,7 +142,7 @@ Android 端 API 地址通过 `BuildConfig.API_BASE_URL` 注入，网络容器定
 
 ## 当前状态与后续方向
 
-根据 [AIPM/项目进度.md](AIPM/项目进度.md)，当前项目已经完成核心 MVP 的大部分能力，下一步重点仍然包括：
+根据 [project_docs/项目进度.md](project_docs/项目进度.md)，当前项目已经完成核心 MVP 的大部分能力，下一步重点仍然包括：
 
 - 能量监控（Spoon / Energy Tracking）
 - 更完整的拖拽改时长体验
@@ -150,5 +150,5 @@ Android 端 API 地址通过 `BuildConfig.API_BASE_URL` 注入，网络容器定
 - 持续打磨 AI 拆解与节奏建议体验
 
 ## 文档参考
-- [AIPM/团队背景.md](AIPM/团队背景.md)
-- [AIPM/项目进度.md](AIPM/项目进度.md)
+- [project_docs/团队背景.md](project_docs/团队背景.md)
+- [project_docs/项目进度.md](project_docs/项目进度.md)

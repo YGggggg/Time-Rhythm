@@ -37,8 +37,8 @@ start-backend.bat
 start-frontend.bat
 stop-backend.bat
 stop-frontend.bat
-AIPM/笔记.md
-AIPM/开发沟通记录.md
+project_docs/笔记.md
+project_docs/开发沟通记录.md
 deploy-prompt.md
 make_zip.ps1
 deploy.sh
